@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+<img align "center" alt="coding" width="400"  src="  ">
 
 <h1 align="center">Hi 👋, I'm Sandip Rokaya</h1>
 <h3 align="center">A passionate Electrical Engineering Student from Nepal</h3>
